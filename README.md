@@ -15,5 +15,6 @@ Paket include:
 
 Silahkan download aplikasi lengkapnya di Google Drive <a href="https://drive.google.com/file/d/1HkZCcyDfRMa9mFg3k4H9Z7lYBQfzr4du/view?usp=sharing">SiBAKSO PROGRAM LENGKAP</a>
 
+<img src="https://github.com/papamas/SiBAKSO/blob/master/ScreenShoot/15-05-2018%2010-09-45.jpg" />
 
 
