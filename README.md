@@ -13,9 +13,8 @@ Paket include:
 1. WEB Server 
 2. Database Server
 
-
 Kebutuhan Sever:
 1.Prosesor Sekelas Intel Corei3
 2.Memory 4 GB
 3.Hardisk 500 GB
-=======
+
