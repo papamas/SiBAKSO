@@ -3,7 +3,7 @@ Sistem Informasi Bank Soal adalah perangkat lunak aplikasi untuk membuat kisi-ki
 
 Fasilita sistem :
 1. Peserta : Perekaman, Import, Generate PIN , Cetak Kartu Peserta Ujian
-2. Kisi Soal : Perekaman, Penyusunan , Cetak Kartu Soal , Bank Soal dan Analisa Ujian
+2. Kisi Soal : Perekaman, Penyusunan Kisi-Kisi , Cetak Kisi-Kisi,  Cetak Kartu Soal , Bank Soal , Generate Random Paket Soal/Asc dan Analisa Ujian
 3. Monitoring
 4. Laporan Ujian
 5. Otorisasi Login , Otorisasi Komputer
