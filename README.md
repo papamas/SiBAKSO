@@ -15,6 +15,11 @@ Paket include:
 1. WEB Server 
 2. Database Server
 
+Default Login :
+=================
+user		: admin
+password	: admin
+
 Silahkan download aplikasi lengkapnya di Google Drive <a href="https://drive.google.com/uc?id=1v4MXtDViGZySkEvkOnfms_IMrRSIqx3g&export=download">SiBAKSO V1.2 PROGRAM LENGKAP</a>
 
 <img src="https://github.com/papamas/SiBAKSO/blob/master/ScreenShoot/15-05-2018%2010-09-45.jpg" /><br>
